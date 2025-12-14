@@ -130,11 +130,68 @@ Tuliskan 2–3 poin kesimpulan dari praktikum ini.
 
 ## Quiz
 1. [Pertanyaan 1]  
-   **Jawaban:**  
+   **Jawaban:Tiga fungsi utama sistem operasi
+
+Manajemen proses
+OS mengatur proses yang sedang berjalan. Siapa dapat jatah CPU, siapa nunggu, siapa diberhentikan. Tanpa ini, program bakal berebut CPU seperti antrean sembako tanpa panitia.
+
+Manajemen memori
+OS menentukan bagian RAM mana dipakai program A, mana untuk program B, dan memastikan mereka tidak saling menginjak. Kalau ini gagal, hasilnya crash, hang, atau layar biru yang penuh kesabaran.
+
+Manajemen perangkat I/O
+OS jadi penerjemah antara software dan hardware. Keyboard, mouse, disk, printer, diatur lewat driver. Program tidak perlu “ngobrol langsung” ke hardware,.
+
+(Sering juga ditambah: manajemen file dan keamanan, tapi tiga di atas adalah fondasinya.
 2. [Pertanyaan 2]  
-   **Jawaban:**  
+   **Jawaban:Perbedaan kernel mode dan user mode
+
+Kernel Mode
+Akses penuh ke hardware dan memori
+Bisa menjalankan instruksi berbahaya (privileged instructions)
+Dipakai oleh kernel dan driver
+Kalau error → sistem bisa langsung crash
+
+User Mode
+Akses terbatas
+Tidak bisa langsung mengakses hardware
+Dipakai oleh aplikasi biasa (browser, editor, game)
+Kalau error biasanya cuma aplikasinya yang mati, OS masih hidup
+
+Intinya:
+User mode itu "orang numpang", kernel mode itu “pemilik rumah”. orang numpang sok atur rumah, langsung diusir. 
 3. [Pertanyaan 3]  
-   **Jawaban:**  
+   **Jawaban:3. Contoh OS berdasarkan arsitektur kernel
+a. Monolithic Kernel
+
+Semua layanan utama (driver, file system, memory management) berjalan di kernel mode.
+
+Contoh:
+
+Linux
+
+Unix klasik
+
+MS-DOS (versi lama dan sederhana)
+
+Kelebihan: cepat
+Kekurangan: kalau satu bagian rusak, bisa meruntuhkan semuanya
+
+b. Microkernel
+
+Kernel dibuat sekecil mungkin. Layanan lain berjalan di user mode sebagai server terpisah.
+
+Contoh:
+
+MINIX
+
+QNX
+
+Mach (dasar macOS, meski macOS modern itu hybrid)
+
+Kelebihan: lebih stabil dan aman
+Kekurangan: komunikasi antar komponen lebih lambat
+
+Kalau mau, aku bisa ringkaskan ini jadi jawaban versi ujian, versi makalah, atau versi dosen killer yang suka detail teknis.
 
 ---
 
