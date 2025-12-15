@@ -5,9 +5,9 @@ Topik: [Tuliskan judul topik, misalnya "Arsitektur Sistem Operasi dan Kernel"]
 ---
 
 ## Identitas
-- **Nama**  : [Nama Mahasiswa]  
-- **NIM**   : [NIM Mahasiswa]  
-- **Kelas** : [Kelas]
+- **Nama**  : [RIZAL PRASETYO]  
+- **NIM**   : [250262965]  
+- **Kelas** : [1IKRA]
 
 ---
 
@@ -61,9 +61,70 @@ Tuliskan 2–3 poin kesimpulan dari praktikum ini.
 
 ## Quiz
 1. [Pertanyaan 1]  
-   **Jawaban:**  
+   **Jawaban:Fungsi utama system call
+Fungsi utama system call adalah menjadi jembatan resmi antara program user dan kernel.
+Program user hidup di dunia aman dan dibatasi, sedangkan kernel pegang semua kekuasaan berbahaya. Kalau program kita:
+akses file,
+bikin proses,
+pakai memori,
+
+atau ngobrol dengan perangkat keras,
+dia wajib minta izin lewat system call. Tanpa ini, tiap program bisa berkuasa dan OS langsung berubah jadi anarki digital.
+
+Singkatnya:System call memungkinkan program user meminta layanan OS secara aman dan terkontrol.
+
+
 2. [Pertanyaan 2]  
-   **Jawaban:**  
+   **Jawaban:2. Empat kategori system call yang umum
+
+Ini versi yang hampir pasti keluar di ujian.
+
+Process Control
+Untuk ngatur proses.
+Contoh:
+
+fork()
+
+exec()
+
+exit()
+
+wait()
+
+File Management
+Untuk urusan file, karena file itu milik OS, bukan milik ego program.
+Contoh:
+
+open()
+
+read()
+
+write()
+
+close()
+
+delete()
+
+Device Management
+Untuk komunikasi dengan perangkat keras.
+Contoh:
+
+ioctl()
+
+read()
+
+write()
+
+request & release device
+
+Information Maintenance
+Untuk ambil atau set informasi sistem.
+Contoh:
+getpid()
+time()
+getuid()
+stat()
+(Alternatif kategori lain yang kadang dipakai: Communication dan Memory Management, tapi empat di atas sudah aman.)
 3. [Pertanyaan 3]  
    **Jawaban:**  
 
