@@ -20,9 +20,8 @@ Menyusun sitasi dan daftar pustaka dengan format yang konsisten.
 Mengunggah draft laporan ke repositori dengan rapi dan tepat waktu.
 
 ## Dasar Teori
-Tuliskan ringkasan teori (3–5 poin) yang mendasari percobaan.
+Tuliskan ringkasan teori (3–5 poin) yang mendasari percobaan. 
 Penjadwalan CPU merupakan mekanisme penting dalam sistem operasi untuk menentukan urutan eksekusi proses agar pemanfaatan prosesor lebih efisien. Setiap algoritma penjadwalan memiliki karakteristik yang berbeda dan berdampak langsung terhadap kinerja sistem, khususnya pada waktu tunggu (waiting time) dan waktu penyelesaian (turnaround time). Praktikum ini bertujuan untuk membandingkan kinerja algoritma First Come First Served (FCFS) dan Shortest Job First (SJF) menggunakan simulasi berbasis program Python. Data proses dibaca dari file CSV untuk meningkatkan keterulangan eksperimen. Hasil pengujian menunjukkan bahwa algoritma SJF menghasilkan rata-rata waiting time dan turnaround time yang lebih rendah dibandingkan FCFS. Namun, FCFS memiliki keunggulan dari sisi kesederhanaan implementasi. Dengan demikian, pemilihan algoritma penjadwalan harus disesuaikan dengan kebutuhan dan karakteristik sistem.
----
 
 ## Langkah Praktikum
 1. Langkah-langkah yang dilakukan.  
