@@ -63,7 +63,6 @@ Sertakan screenshot hasil percobaan atau diagram:
 
 ## Analisis
 Simulasi FCFS berhasil diimplementasikan dengan baik dan memberikan hasil yang konsisten dengan teori. Praktikum ini membantu memahami hubungan antara konsep penjadwalan CPU dan implementasi komputasionalnya.
----
 
 ## Kesimpulan
 Tuliskan 2–3 poin kesimpulan dari praktikum ini.
