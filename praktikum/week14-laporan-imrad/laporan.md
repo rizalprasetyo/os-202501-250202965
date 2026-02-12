@@ -96,9 +96,6 @@ FIFO memiliki mekanisme yang lebih sederhana, namun kurang efisien karena tidak 
 
 Pemilihan algoritma page replacement berpengaruh terhadap efisiensi penggunaan memori utama dalam sistem operasi.
 
-Hasil praktikum sesuai dengan teori manajemen memori yang menyatakan bahwa algoritma berbasis riwayat akses, seperti LRU, cenderung memiliki kinerja yang lebih baik.
----
-
 ## Quiz
 1. [Pertanyaan 1]  
    **Jawaban: 1. Mengapa Format IMRAD Membantu Membuat Laporan Praktikum Lebih Ilmiah dan Mudah Dievaluasi?
