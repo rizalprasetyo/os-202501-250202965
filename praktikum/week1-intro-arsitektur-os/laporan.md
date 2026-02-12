@@ -88,7 +88,6 @@ Contoh:QNX,MINIX 3 ,L4 microkernel.
 
 
 ## Dasar Teori
-Tuliskan ringkasan teori (3–5 poin) yang mendasari percobaan.
 Konsep Dasar Sistem Operasi: Definisi sistem operasi, sejarah perkembangan sistem operasi, dan jenis-jenis sistem operasi.
 Manajemen Proses: Proses, thread, penjadwalan proses, sinkronisasi proses, dan komunikasi antar proses.
 Manajemen Memori: Memori utama, memori virtual, alokasi memori, dan manajemen memori.
@@ -96,7 +95,6 @@ Sistem File: Struktur file, organisasi file, akses file, dan manajemen file.
 Manajemen Input/Output: Antarmuka input/output, pengontrol input/output, dan manajemen input/output.
 Keamanan dan Proteksi: Konsep keamanan, jenis-jenis serangan, dan teknik proteksi.
 Penjadwalan: Penjadwalan proses, penjadwalan job, dan algoritma penjadwalan.
----
 
 ## Langkah Praktikum
 1.langkah-langkah yang dilakukan oleh sistem operasi:
@@ -235,7 +233,11 @@ Dalam melakukan pengujian, perlu mempertimbangkan perbedaan-perbedaan tersebut u
 
 ## Kesimpulan
 Tuliskan 2–3 poin kesimpulan dari praktikum ini.
+1.Sistem operasi memiliki peran penting dalam mengelola sumber daya sistem: Praktikum ini menunjukkan bahwa sistem operasi berperan penting dalam mengelola sumber daya sistem, seperti prosesor, memori, dan perangkat keras lainnya, untuk meningkatkan kinerja dan stabilitas sistem.
 
+2.Pemahaman tentang sistem operasi dapat membantu dalam pengembangan aplikasi yang lebih baik: Dengan memahami bagaimana sistem operasi bekerja, pengembang dapat membuat aplikasi yang lebih efisien, stabil, dan aman.
+
+3.Perbedaan arsitektur dan konfigurasi sistem operasi dapat mempengaruhi kinerja dan stabilitas sistem: Praktikum ini menunjukkan bahwa perbedaan arsitektur dan konfigurasi sistem operasi dapat mempengaruhi kinerja dan stabilitas sistem, sehingga perlu dipertimbangkan dalam pengembangan dan penggunaan sistem operasi.
 ---
 
 ## Quiz
