@@ -89,7 +89,13 @@ Contoh:QNX,MINIX 3 ,L4 microkernel.
 
 ## Dasar Teori
 Tuliskan ringkasan teori (3–5 poin) yang mendasari percobaan.
-
+Konsep Dasar Sistem Operasi: Definisi sistem operasi, sejarah perkembangan sistem operasi, dan jenis-jenis sistem operasi.
+Manajemen Proses: Proses, thread, penjadwalan proses, sinkronisasi proses, dan komunikasi antar proses.
+Manajemen Memori: Memori utama, memori virtual, alokasi memori, dan manajemen memori.
+Sistem File: Struktur file, organisasi file, akses file, dan manajemen file.
+Manajemen Input/Output: Antarmuka input/output, pengontrol input/output, dan manajemen input/output.
+Keamanan dan Proteksi: Konsep keamanan, jenis-jenis serangan, dan teknik proteksi.
+Penjadwalan: Penjadwalan proses, penjadwalan job, dan algoritma penjadwalan.
 ---
 
 ## Langkah Praktikum
