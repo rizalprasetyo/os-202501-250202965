@@ -120,6 +120,36 @@ Sertakan screenshot hasil percobaan atau diagram:
 - Jelaskan makna hasil percobaan.  
 - Hubungkan hasil dengan teori (fungsi kernel, system call, arsitektur OS).  
 - Apa perbedaan hasil di lingkungan OS berbeda (Linux vs Windows)?  
+Hasil percobaan sistem operasi dapat memberikan informasi yang berharga tentang kinerja, stabilitas, dan keamanan sistem operasi. Berikut adalah beberapa kemungkinan hasil percobaan sistem operasi dan maknanya:
+Kinerja sistem operasi: Hasil percobaan dapat menunjukkan bagaimana sistem operasi berjalan pada perangkat keras yang berbeda-beda, termasuk kecepatan prosesor, kapasitas memori, dan kinerja grafis.
+Stabilitas sistem operasi: Hasil percobaan dapat menunjukkan apakah sistem operasi dapat berjalan stabil dan tidak mengalami crash atau error pada kondisi tertentu.
+Keamanan sistem operasi: Hasil percobaan dapat menunjukkan apakah sistem operasi dapat melindungi diri dari serangan malware, virus, atau ancaman lainnya.
+Kompatibilitas perangkat keras: Hasil percobaan dapat menunjukkan apakah sistem operasi dapat berjalan pada perangkat keras yang berbeda-beda, termasuk perangkat keras lama atau baru.
+Kinerja aplikasi: Hasil percobaan dapat menunjukkan bagaimana aplikasi berjalan pada sistem operasi, termasuk kecepatan loading, responsivitas
+Hasil percobaan sistem operasi dapat dihubungkan dengan teori tentang fungsi kernel, system call, dan arsitektur OS sebagai berikut:
+Fungsi Kernel: Hasil percobaan dapat menunjukkan bagaimana kernel mengelola sumber daya sistem, seperti prosesor, memori, dan perangkat keras lainnya. Kernel yang efektif dapat meningkatkan kinerja sistem operasi.
+System Call: Hasil percobaan dapat menunjukkan bagaimana system call digunakan oleh aplikasi untuk mengakses layanan sistem operasi. System call yang efisien dapat meningkatkan kinerja aplikasi.
+Arsitektur OS: Hasil percobaan dapat menunjukkan bagaimana arsitektur OS mempengaruhi kinerja, stabilitas, dan keamanan sistem operasi. Arsitektur OS yang baik dapat meningkatkan kinerja dan keamanan sistem operasi.
+Dengan memahami hubungan antara hasil percobaan dan teori tentang fungsi kernel, system call, dan arsitektur OS, pengembang dapat:
+
+Mengoptimalkan kernel: Mengoptimalkan kernel untuk meningkatkan kinerja sistem operasi.
+Mengoptimalkan system call: Mengoptimalkan system call untuk meningkatkan kinerja aplikasi.
+Mengembangkan arsitektur OS yang baik: Mengembangkan arsitektur OS yang baik untuk meningkatkan kinerja, stabilitas, dan keamanan sistem operasi.
+Dengan demikian, hasil percobaan sistem operasi dapat digunakan untuk meningkatkan kualitas dan kinerja sistem operasi.
+
+Perbedaan hasil di lingkungan OS berbeda (Linux vs Windows) dapat disebabkan oleh beberapa faktor:
+Arsitektur OS: Linux dan Windows memiliki arsitektur OS yang berbeda, sehingga dapat mempengaruhi kinerja, stabilitas, dan keamanan sistem.
+Kernel: Linux memiliki kernel yang open-source dan dapat disesuaikan, sedangkan Windows memiliki kernel yang proprietary dan tidak dapat disesuaikan.
+Sistem File: Linux dan Windows memiliki sistem file yang berbeda, seperti ext4 untuk Linux dan NTFS untuk Windows.
+Manajemen Memori: Linux dan Windows memiliki manajemen memori yang berbeda, sehingga dapat mempengaruhi kinerja aplikasi.
+Kompatibilitas Perangkat Keras: Linux dan Windows memiliki kompatibilitas perangkat keras yang berbeda, sehingga dapat mempengaruhi kinerja sistem.
+Perbedaan hasil di lingkungan OS berbeda dapat terlihat dalam beberapa aspek, seperti:
+
+Kinerja Aplikasi: Aplikasi dapat berjalan lebih cepat pada satu OS dibandingkan dengan OS lainnya.
+Stabilitas Sistem: Sistem operasi dapat memiliki stabilitas yang berbeda-beda, tergantung pada bagaimana mereka mengelola sumber daya sistem.
+Keamanan: Sistem operasi dapat memiliki keamanan yang berbeda-beda, tergantung pada bagaimana mereka mengelola akses dan proteksi data.
+Dalam melakukan pengujian, perlu mempertimbangkan perbedaan-perbedaan tersebut untuk mendapatkan hasil yang akurat dan relevan.
+
 
 ---
 
