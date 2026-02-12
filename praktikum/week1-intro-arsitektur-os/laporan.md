@@ -93,10 +93,84 @@ Tuliskan ringkasan teori (3–5 poin) yang mendasari percobaan.
 ---
 
 ## Langkah Praktikum
-1. Langkah-langkah yang dilakukan.  
-2. Perintah yang dijalankan.  
-3. File dan kode yang dibuat.  
-4. Commit message yang digunakan.
+1.langkah-langkah yang dilakukan oleh sistem operasi:
+
+1.Bootstrapping
+
+2.Inisialisasi
+
+3.*Manajemen proses
+
+4.Manajemen Memori
+
+5.Manajemen File
+
+6.Manajemen Input/Output
+
+7.Penjadwalan
+
+8.Keamanan
+
+9.*Pengelolaan Sumber Daya
+
+10.Pengelolaan Jaringan
+
+11.Sistem operasi menjalankan berbagai perintah, antara lain:
+
+12.Proses: Membuat, menjalankan, menghentikan, dan mengelola proses.
+
+13.Manajemen File: Membuat, menghapus, mengganti nama, dan mengelola file dan direktori.
+
+14.Manajemen Memori: Mengalokasikan, dealokasikan, dan mengelola memori.
+
+15.Input/Output: Mengelola input/output dari perangkat keras, seperti keyboard, mouse, dan printer.
+
+16.Jaringan: Mengelola komunikasi jaringan, termasuk mengirim dan menerima data.
+
+17.Keamanan: Melakukan autentikasi, autorisasi, dan enkripsi untuk melindungi sistem.
+
+18.Penjadwalan: Menentukan prioritas dan waktu eksekusi proses.
+
+19.Pengelolaan Sumber Daya: Mengelola sumber daya sistem, seperti CPU, memori, dan perangkat keras. 3.Sistem operasi membuat dan mengelola berbagai jenis file dan kode, antara lain:
+
+File Sistem Operasi
+
+1.Kernel: File kernel adalah inti dari sistem operasi yang mengelola sumber daya sistem dan menyediakan layanan dasar.
+2.Device Driver: File device driver adalah kode yang memungkinkan sistem operasi berkomunikasi dengan perangkat keras.
+3.Sistem File: File sistem file adalah struktur data yang digunakan oleh sistem operasi untuk mengelola file dan direktori.
+
+Kode Sistem Operasi
+
+1.Kode Sumber: Kode sumber adalah kode yang ditulis dalam bahasa pemrograman tertentu untuk membuat sistem operasi.
+2.Kode Objek: Kode objek adalah kode yang dihasilkan oleh kompiler dari kode sumber.
+3.Kode Mesin: Kode mesin adalah kode yang dapat dijalankan langsung oleh prosesor.
+
+File Konfigurasi
+
+1.File Konfigurasi Sistem: File konfigurasi sistem adalah file yang berisi pengaturan dan konfigurasi sistem operasi.
+2.File Konfigurasi Perangkat Keras: File konfigurasi perangkat keras adalah file yang berisi pengaturan dan konfigurasi perangkat keras.
+
+File Lainnya
+
+1.Log File: File log adalah file yang berisi catatan aktivitas sistem operasi.
+
+2.File Temporer: File temporer adalah file yang dibuat oleh sistem operasi untuk keperluan sementara. 4.Commit message yang digunakan oleh sistem operasi dapat bervariasi tergantung pada proyek dan tim pengembangnya. Namun, berikut adalah beberapa contoh commit message yang umum digunakan dalam pengembangan sistem operasi:
+
+3.fix: memperbaiki bug pada kernel
+
+4.feat: menambahkan dukungan untuk perangkat keras baru
+
+5.docs: memperbarui dokumentasi sistem operasi
+
+6.perf: meningkatkan kinerja sistem operasi
+
+7.security: memperbaiki kerentanan keamanan
+
+8.refactor: memperbaiki struktur kode sistem operasi
+
+9.merge: menggabungkan branch baru ke dalam main branch
+
+10.release: rilis versi baru sistem operasi
 
 ---
 
