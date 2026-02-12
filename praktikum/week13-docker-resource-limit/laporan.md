@@ -100,16 +100,15 @@ def stress_test():
 
 if __name__ == "__main__":
     stress_test()
-# Gunakan image Python yang ringan
+    # Gunakan image Python yang ringan
 FROM python:3.9-slim
-
-# Set direktori kerja di dalam kontainer
+    # Set direktori kerja di dalam kontainer
 WORKDIR /app
 
-# Salin skrip uji ke dalam kontainer
+    # Salin skrip uji ke dalam kontainer
 COPY app.py .
 
-# Jalankan skrip saat kontainer dimulai
+    # Jalankan skrip saat kontainer dimulai
 CMD ["python", "-u", "app.py"]
      docker version
      docker ps
