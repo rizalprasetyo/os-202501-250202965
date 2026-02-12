@@ -30,7 +30,6 @@ Tuliskan ringkasan teori (3–5 poin) yang mendasari percobaan.
 4.Isolasi sumber daya pada VM meningkatkan keamanan dan stabilitas sistem, karena kesalahan atau crash pada guest tidak berdampak langsung ke host.
 
 5.Hardening OS dapat diterapkan pada guest dan host dengan membatasi akses, layanan, dan sumber daya untuk memperkecil risiko keamanan.
----
 
 ## Langkah Praktikum
 1.Menyiapkan lingkungan
