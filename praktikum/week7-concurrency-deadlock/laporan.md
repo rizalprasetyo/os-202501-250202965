@@ -6,7 +6,7 @@ Topik: [Tuliskan judul topik, misalnya "Arsitektur Sistem Operasi dan Kernel"]
 
 ## Identitas
 - **Nama**  : [Rizal prasetyo]  
-- **NIM**   : [250202935]  
+- **NIM**   : [250202965]  
 - **Kelas** : [1IKRA]
 
 ---
